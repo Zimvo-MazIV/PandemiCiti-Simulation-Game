@@ -1,0 +1,2 @@
+C:\Users\csadv\Desktop\WVRV\Tut01 - Unity Intro\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\csadv\Desktop\WVRV\Tut01 - Unity Intro\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
